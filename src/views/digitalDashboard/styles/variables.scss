@@ -1,0 +1,18 @@
+@mixin dashboard-variables {
+  --dd-cyan: #55d4db;
+  --dd-blue: #5aa7ff;
+  --dd-green: #62d69a;
+  --dd-amber: #f0b95c;
+  --dd-red: #ff6f68;
+  --dd-ink: #080c10;
+  --dd-shell: #0d1318;
+  --dd-panel: #111920;
+  --dd-panel-raised: #162129;
+  --dd-line: rgba(131, 170, 190, 0.16);
+  --dd-line-strong: rgba(85, 212, 219, 0.42);
+  --dd-text: #eef7f8;
+  --dd-text-2: rgba(211, 229, 232, 0.72);
+  --dd-text-3: rgba(158, 185, 191, 0.52);
+  --dd-radius: 6px;
+  --dd-gap: 10px;
+}
